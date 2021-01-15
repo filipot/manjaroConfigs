@@ -1,0 +1,15 @@
+sudo pacman -S npm nodejs autotiling gvim
+
+
+
+save .xinitrc
+.i3/config
+.vimrc
+
+
+use alt key as default super key,
+use windows key for vim tabs!
+
+
+set completion-ignore-case On
+^Skriv det i /etc/inputrc
