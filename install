@@ -1,4 +1,4 @@
-sudo pacman -S npm nodejs autotiling gvim
+sudo pacman -S npm nodejs autotiling gvim pulseaudio pavucontrol unarchiver
 
 
 
@@ -9,6 +9,8 @@ save .xinitrc
 
 use alt key as default super key,
 use windows key for vim tabs!
+
+install pulse
 
 
 set completion-ignore-case On

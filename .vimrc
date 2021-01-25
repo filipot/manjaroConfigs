@@ -327,6 +327,10 @@ noremap <C-c> "+y
 :nnoremap % 5gt
 :nnoremap & 6gt
 :nnoremap = :silent !gvim %:p<CR>
+:nnoremap ^X@s1 1gt
+:nnoremap ^X@s2 2gt
+:nnoremap <T-1> 1gt
+:nnoremap <T-2> 2gt
 " Search for visually selected 
 vnoremap // y/\V<C-R>=escape(@",'/\')<CR><CR>
 ":nnoremap <C-Q> 1gt
